@@ -1,8 +1,8 @@
-const nameGirl = '20/10';
+const nameGirl = 'From Đức Chiến';
 const giftUrl = '';
-const eventName = `Happy women's day`;
-const titleCard = 'Gửi đến Mai';
-const contentCard = 'Chúc Mai ngày 20/10 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với Mai trong hôm nay và cả những ngày sau...';
+const eventName = `Lời xin lỗi`;
+const titleCard = 'Gửi đến Ngọc Mai';
+const contentCard = 'Em biết mình đã tạo ra những cuộc tranh luận không cần thiết giữa chúng ta. Em hứa sẽ không làm điều đó thêm một lần nào nữa. Em xin lỗi.';
 const giftImage = '';
 const base64 = '';
 const giftImageBase64 = "data:image/png;base64, " + base64;
